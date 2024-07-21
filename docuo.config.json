@@ -44,48 +44,42 @@
       ]
     },
     "footer": {
-      "logo": {
-        "light": "image/logo_light.png",
-        "dark": "image/logo_dark.png"
-      },
-      "caption": "My project",
+      "caption": "Services Docs",
       "links": [
         {
           "title": "Product",
           "items": [
             {
               "label": "Blog",
-              "href": "https://www.spreading.ai/blog"
-            },
-            {
-              "label": "Sign up",
-              "href": "https://app.spreading.ai/signup"
-            },
-            {
-              "label": "Log in",
-              "href": "https://app.spreading.ai/login"
+              "href": "https://www.spreading.ai/blog",
+              "id": "cfcb38a5"
             }
-          ]
+          ],
+          "id": "dae85c9a"
         }
       ],
       "socials": [
         {
           "logo": "Twitter",
-          "href": "https://twitter.com/docuo_team"
-        },
-        {
-          "logo": "LinkedIn",
-          "href": "https://www.linkedin.com/company/spreadingai"
+          "href": "https://twitter.com/",
+          "id": "ed272671"
         },
         {
           "logo": "Discord",
-          "href": "https://discord.gg/pgJFhUwzAU"
+          "href": "https://discord.gg/",
+          "id": "590eaf9a"
         },
         {
           "logo": "GitHub",
-          "href": "https://github.com/spreadingai"
+          "href": "https://github.com/",
+          "id": "38a74f3d"
         }
-      ]
+      ],
+      "logo": {
+        "dark": "https://media-resource.spreading.io/docuo/workspace727/1b7af5e4d8f9aaec697d5e63c6d5fe4d/footer_dark_logo.png?ts=1721557013869",
+        "light": "https://media-resource.spreading.io/docuo/workspace727/1b7af5e4d8f9aaec697d5e63c6d5fe4d/footer_light_logo.png?ts=1721557007046"
+      },
+      "copyright": "Created by  ART-Stake | © 2024"
     },
     "removeWatermark": false,
     "colors": {
