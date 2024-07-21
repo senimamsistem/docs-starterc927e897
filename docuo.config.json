@@ -15,14 +15,19 @@
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "mySidebar",
-          "label": "Documentation"
-        },
-        {
-          "type": "default",
-          "label": "Homepage",
-          "href": "https://www.spreading.ai"
+          "id": "4dd17856",
+          "label": "Mainnet",
+          "href": "",
+          "to": "",
+          "type": "dropdown",
+          "items": [
+            {
+              "id": "917eedc8",
+              "label": "Test",
+              "href": "",
+              "to": ""
+            }
+          ]
         }
       ]
     },
@@ -69,7 +74,8 @@
           "href": "https://github.com/spreadingai"
         }
       ]
-    }
+    },
+    "removeWatermark": false
   },
   "search": {
     "algolia": {
