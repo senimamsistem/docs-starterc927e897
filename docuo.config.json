@@ -4,7 +4,7 @@
   "favicon": "https://media-resource.spreading.io/docuo/workspace727/1b7af5e4d8f9aaec697d5e63c6d5fe4d/favicon.png?ts=1721556074313",
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false
     },
     "navbar": {
@@ -87,7 +87,11 @@
         }
       ]
     },
-    "removeWatermark": false
+    "removeWatermark": false,
+    "colors": {
+      "primaryLight": "#32CD32",
+      "primaryDark": "#29FF94"
+    }
   },
   "search": {
     "algolia": {
